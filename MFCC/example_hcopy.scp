@@ -1,0 +1,7 @@
+/path_to_file/english1.wav ./path_to_MFCC/english1.mfc
+/path_to_file/english10.wav ./path_to_MFCC/english10.mfc
+/path_to_file/english100.wav ./path_to_MFCC/english100.mfc
+/path_to_file/finnish1.wav ./path_to_MFCC/finnish1.mfc
+/path_to_file/finnish2.wav ./path_to_MFCC/finnish2.mfc
+/path_to_file/finnish3.wav ./path_to_MFCC/finnish3.mfc
+/path_to_file/zulu1.wav ./path_to_MFCC/zulu1.mfc
