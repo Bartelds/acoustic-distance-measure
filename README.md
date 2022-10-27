@@ -15,7 +15,7 @@ An acoustic-based method that can be used to calculate the distance between pron
 ## Data
 Identifiers of the audio samples used can be found in `Audio`
 
-Data source: http://accent.gmu.edu/browse_language.php
+Data source: https://accent.gmu.edu/browse_language.php
 
 ## Usage
 Before the distances can be computed, the input data must be preprocessed once (step 1:4). This can be done by adhering to the following procedure:
